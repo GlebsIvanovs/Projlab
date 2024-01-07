@@ -26,3 +26,13 @@
 | Pēteris    | Palielināt muskuļmasu  | Vēlos izveidot treniņu plānu, lai iegūtu muskuļu masu un uzlabotu savu fizisko veiktspēju. | B          |
 | Līga       | Uzturēt veselīgu uzturu| Mērķis ir pievērsties uztura uzlabošanai, lai uzlabotu kopējo veselību un labklājību. | C          |
 | Jānis      | Palielināt izturību     | Vēlos strādāt pie diētas, kas mani labāk sagatavos garīgiem un fiziskiem izaicinājumiem. | D          |
+
+## Tehnoloģiju steks
+
+| Tehnoloģija          | Apraksts                                       |
+|----------------------|------------------------------------------------|
+| Programmēšanas valoda| Python                                         |
+| Backend framework    | Flask                                          |
+| Frontend framework   | Bootstrap                                      |
+| Datu bāze            | SQLAlchemy                                     |
+| Reģistrācija         | Session                                        |
